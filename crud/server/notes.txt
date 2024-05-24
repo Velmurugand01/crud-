@@ -1,0 +1,9 @@
+module package:
+1.Express-for Server Creation
+2.Cors(cross-origin Resource Sharing)- one type of the middleware,front-end yum backendyum connect panna use aguthu,
+  origin kuduthuta react oda port number kuduthuta , only antha antha port number mattum tha backend server kuds interact aga mudyum ,
+  ntha client mattum tha req make panni adukana response vanga mudyum 
+  summary(security purpose)
+  *sollapona restful api's  crta ana client oda  interact panna tha intha middleware use aguthu *
+
+3.dotenv. figureout the outer environment file into use #cmnt process.env.port 
